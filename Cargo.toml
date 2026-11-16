@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-cups-filters"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS cups-filters component - printing"
+
+[lib]
+name = "cups_filters"
+path = "src/lib.rs"
