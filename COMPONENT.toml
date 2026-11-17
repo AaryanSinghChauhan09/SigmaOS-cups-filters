@@ -3,7 +3,7 @@ name = "SigmaOS-cups-filters"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "cups-filters component"
+description = "CUPS Filters"
 upstream = []
 
 [contract]
